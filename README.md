@@ -47,7 +47,7 @@ You can create or join a room with available space.
 
 Once in a room, you can immediately start searching for sets among the cards on the board.
 When you believe you've found one, press the button to make your selection.
-If you make a mistake, you cannot try again until another player makes a selection.
+If you make a mistake or take too long, you cannot try again until another player makes a selection.
 You also cannot press the button while another player is currently making their selection.
 
 <img src="https://user-images.githubusercontent.com/31972928/202911976-0e304959-c43b-4ba8-9f7a-d84b36f6bb6b.png" width="800px" />
